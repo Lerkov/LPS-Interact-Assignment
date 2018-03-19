@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">LWeather</string>
+
+    <!-- MAIN ACTIVITY STRINGS -->
+
+    <string name="descriptionLabel">Description:</string>
+    <string name="temperatureLabel">Temperature:</string>
+    <string name="locationLabel">Location:</string>
+    <string name="windSpeedLabel">Wind:</string>
+
+    <!-- BOTTOM NAVIGATION STRINGS -->
+
+    <string name="localBNText">Local Weather</string>
+    <string name="inputBNText">Input City</string>
+    <string name="randomBNText">Random</string>
+    <string name="enterLocation">Enter Location Here</string>
+
+    <!-- URL STRINGS -->
+
+    <string name="privateAPIKey"><!-- INSERT KEY HERE --></string>
+    <string name="apiKeyPrefix">&amp;appid=</string>
+    <string name="weatherURLStart">http://api.openweathermap.org/data/2.5/weather?</string>
+    <string name="iconURLStart">http://openweathermap.org/img/w/</string>
+
+    <!-- WARNINGS -->
+
+    <string name="locationNotFound">Location Not Found</string>
+    <string name="noInternet">No internet</string>
+    <string name="activateGPS">Please Enable Location Services</string>
+    <string name="allowLocation">Please Allow APP to Access Location</string>
+    <string name="insertAPIKey">Please insert your API Key into strings.xml</string>
+
+
+</resources>

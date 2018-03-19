@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/locationBN"
+        android:enabled="true"
+        android:title="@string/localBNText"
+        android:icon="@mipmap/ic_location_here"
+        app:showAsAction="withText" />
+    <item
+        android:id="@+id/cityBN"
+        android:enabled="true"
+        android:title="@string/inputBNText"
+        android:icon="@mipmap/ic_city_fore"
+        app:showAsAction="withText" />
+    <item
+        android:id="@+id/randomBN"
+        android:enabled="true"
+        android:title="@string/randomBNText"
+        android:icon="@mipmap/ic_question_fore"
+        app:showAsAction="withText" />
+
+</menu>
